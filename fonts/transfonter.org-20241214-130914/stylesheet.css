@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Playwrite VN Guides';
+    src: url('PlaywriteVNGuides-Regular.eot');
+    src: url('PlaywriteVNGuides-Regular.eot?#iefix') format('embedded-opentype'),
+        url('PlaywriteVNGuides-Regular.woff2') format('woff2'),
+        url('PlaywriteVNGuides-Regular.woff') format('woff'),
+        url('PlaywriteVNGuides-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
